@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #d9ed92;
+}
+
+.navbarmenu {
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.navlogo {
+    margin-right: 50%;
+    width: 100px;
+    height: auto;
+}
+.item {
+    margin: 10px;
+    font-size: 1.5rem;
+    
+}
+.enlace {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #34a0a4;
+}
+.enlace:hover {
+    color: #168aad;
+}
